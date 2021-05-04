@@ -5,5 +5,6 @@ Some test readme text.
 
 ### LOOK!
 ```py
-print('it supports markdown!')
+while True:
+  print('it supports markdown!')
 ```
